@@ -13,21 +13,12 @@ A Python utility for efficient file management, organization, and duplicate remo
 
 ## Installation
 ```bash
-git clone https://github.com/yourusername/file-organizer.git
-cd file-organizer
-pip install -r requirements.txt
+git clone https://github.com/GlareTech/File-Organizer-and-duplicate-remover.git
+cd File-Organizer-and-duplicate-remover
+
 ```
 
-## Usage
-```python
-from file_organizer import organize_files, remove_duplicates
 
-# Organize files in a directory
-organize_files('/path/to/directory')
-
-# Remove duplicate files
-remove_duplicates('/path/to/directory')
-```
 
 ## Contributing
 1. Fork the repository
